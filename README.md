@@ -148,6 +148,6 @@ I am positioning my GitHub around practical software engineering projects that s
 
 ## Contact
 
-- LinkedIn: Add your LinkedIn link here
-- Email: Add your email here
+- LinkedIn: [Siddhant Jadhav](https://www.linkedin.com/in/siddhant-jadhav-0016a1258/)
+- Email: [siddhant823jadhav@gmail.com](mailto:siddhant823jadhav@gmail.com)
 - Portfolio: Add portfolio link here, if available
